@@ -146,6 +146,7 @@ endmodule
 
 
 
+![Screenshot 2023-05-19 142123](https://github.com/lubindher/ex1final/assets/119559904/b4dd0f75-4260-4041-bea5-0803747800ed)
 
 ## Result:
 
